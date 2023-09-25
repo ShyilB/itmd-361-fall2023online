@@ -1,0 +1,12 @@
+<!DOCTYPE html> 
+<html lang="en"> 
+<head> 
+	<meta charest-"UTF-8"> 
+	<title> ITMD-361 Internet Technologies and Web Design</title> 
+</head>
+<body> 
+	<h1>ITMD-361 Internet Technologies and Web Design </h1> 
+	<p> Hi my name is Shyil Brantley and This is my first website. I attend Chicago Ag and I am a senior. </p>
+</body>
+</html>
+	
